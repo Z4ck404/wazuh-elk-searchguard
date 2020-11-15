@@ -1,7 +1,6 @@
 # wazuh-elk-searchguard : 
 Wazuh and ELK stack secured with SearchGuard 
 
-![Alt text](img/schema.png)
 
 In this repository (fork from [wazuh-docker 3.13](https://github.com/wazuh/wazuh-docker/tree/3.13) ) you will find :
 
