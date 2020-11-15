@@ -5,7 +5,7 @@ In this repository (fork from [wazuh-docker 3.13](https://github.com/wazuh/wazuh
 
 * Wazuh: It runs the Wazuh manager, Wazuh API and Filebeat (for integration with Elastic Stack).
 * Kibana: Provides a web user interface to browse through alerts data. It includes Wazuh plugin for Kibana, that allows you to visualize agents configuration, and SearchGuard Kibana plugin that ensures the security of the stack and a GUI to configure alerts and SearchGuard Tenants.
-* Elasticsearch: An Elasticsearch container (working as a single-node cluster) using Elastic Stack Docker images. **Be aware to increase the `vm.max_map_count` setting, as it's detailed in the [Wazuh documentation](https://documentation.wazuh.com/current/docker/wazuh-container.html#increase-max-map-count-on-your-host-linux).**
+* Elasticsearch: An Elasticsearch container (working as a single-node cluster) using Elastic Stack Docker images.
 
 
 # Credits : 
@@ -24,5 +24,5 @@ To make sure the elasticsearch will run normally, make sure to increase the `vm.
 
 # Photos : 
 
-![Alt text](img/kibana_interface.PNG)
+![Alt text](img/kibana_interface.PNG) 
 
