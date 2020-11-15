@@ -4,7 +4,7 @@ Wazuh and ELK stack secured with SearchGuard
 In this repository (fork from [wazuh-docker 3.13](https://github.com/wazuh/wazuh-docker/tree/3.13) ) you will find :
 
 * Wazuh: It runs the Wazuh manager, Wazuh API and Filebeat (for integration with Elastic Stack).
-* Kibana: Provides a web user interface to browse through alerts data. It includes Wazuh plugin for Kibana, that allows you to visualize agents configuration, and SearchGuard Kibana plugin that ensures the security of the stack and a GUI to configure alerts and SearchGuard Tenants.
+* Kibana: Provides a web user interface to browse through alerts data. It includes Wazuh plugin for Kibana, that allows you to visualize agents configuration, and SearchGuard Kibana plugin that ensures the security of the stack and a GUI to configure alerts and SearchGuard Tenants, configure and create Alerts using Signals.
 * Elasticsearch: An Elasticsearch container (working as a single-node cluster) using Elastic Stack Docker images.
 
 
