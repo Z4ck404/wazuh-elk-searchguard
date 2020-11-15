@@ -25,4 +25,8 @@ To make sure the elasticsearch will run normally, make sure to increase the `vm.
 # Photos : 
 
 ![Alt text](img/kibana_interface.PNG) 
+![Alt text](img/interface2.PNG) 
+![Alt text](img/interface3.PNG) 
+![Alt text](img/interface4.PNG) 
+![Alt text](img/interface5.PNG) 
 
